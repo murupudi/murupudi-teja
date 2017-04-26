@@ -22,6 +22,29 @@ li a:hover {
     background-color: #111111;
 }
 body {
-    background-image: url(images/dsc_0057.jpg);
+    background-image: url(images/dsc_0059.jpg); 
     background-size: cover;
+    background-repeat:no-repeat;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.signup{
+    border-left: 40px;
+    border-right: 40px;
+    border-bottom: 40px;
+    border-color: #ffffff;
+    padding-left:  100px;
+    padding-right: 100px;
+  
+    padding-bottom: 20px;
+   
+   
+    background-size: cover;
+    background-repeat:no-repeat;
+
 }
